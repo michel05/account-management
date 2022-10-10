@@ -1,7 +1,7 @@
 package com.michel.accountmanagement.application.controller.dto
 
-import com.devpass.michel.accountmanagement.domain.model.Account
-import com.devpass.michel.accountmanagement.domain.model.Client
+import com.michel.accountmanagement.domain.model.Account
+import com.michel.accountmanagement.domain.model.Client
 import java.math.BigDecimal
 import java.time.LocalDate
 

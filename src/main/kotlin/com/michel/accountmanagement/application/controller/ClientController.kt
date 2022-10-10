@@ -1,9 +1,9 @@
 package com.michel.accountmanagement.application.controller
 
-import com.devpass.michel.accountmanagement.application.controller.dto.ClientDtoRequest
-import com.devpass.michel.accountmanagement.application.controller.dto.ClientResponseDTO
-import com.devpass.michel.accountmanagement.domain.gateway.ClientManagerGateway
-import com.devpass.michel.accountmanagement.domain.model.CreateClient
+import com.michel.accountmanagement.application.controller.dto.ClientDtoRequest
+import com.michel.accountmanagement.application.controller.dto.ClientResponseDTO
+import com.michel.accountmanagement.domain.gateway.ClientManagerGateway
+import com.michel.accountmanagement.domain.model.CreateClient
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.*
 

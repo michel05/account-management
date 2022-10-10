@@ -1,7 +1,6 @@
 package com.michel.accountmanagement.resources.repository.entities
 
-import com.devpass.michel.accountmanagement.domain.model.Client
-import java.math.BigDecimal
+import com.michel.accountmanagement.domain.model.Client
 import java.time.LocalDate
 import javax.persistence.*
 

@@ -1,7 +1,7 @@
 package com.michel.accountmanagement.application.controller
 
-import com.devpass.michel.accountmanagement.application.controller.dto.AccountWithdrawRequest
-import com.devpass.michel.accountmanagement.domain.gateway.AccountOperationsGateway
+import com.michel.accountmanagement.application.controller.dto.AccountWithdrawRequest
+import com.michel.accountmanagement.domain.gateway.AccountOperationsGateway
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.PostMapping
 import org.springframework.web.bind.annotation.RequestBody

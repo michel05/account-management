@@ -1,7 +1,7 @@
 package com.michel.accountmanagement.resources.repository.entities
 
-import com.devpass.michel.accountmanagement.domain.model.Account
-import com.devpass.michel.accountmanagement.domain.model.AccountStatus
+import com.michel.accountmanagement.domain.model.Account
+import com.michel.accountmanagement.domain.model.AccountStatus
 import java.math.BigDecimal
 import javax.persistence.*
 

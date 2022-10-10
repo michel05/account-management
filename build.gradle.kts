@@ -8,8 +8,8 @@ plugins {
 	kotlin("plugin.jpa") version "1.6.21"
 }
 
-group = "com.devpass.michel"
-version = "0.0.1-SNAPSHOT"
+group = "com.michel"
+version = "1.0.0"
 java.sourceCompatibility = JavaVersion.VERSION_11
 
 repositories {
@@ -23,7 +23,6 @@ dependencies {
 	implementation("org.jetbrains.kotlin:kotlin-reflect")
 	implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 	runtimeOnly("com.h2database:h2")
-	testImplementation("org.springframework.boot:spring-boot-starter-test")
 }
 
 tasks.withType<KotlinCompile> {

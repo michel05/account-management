@@ -1,10 +1,10 @@
 package com.michel.accountmanagement.resources.repository
 
-import com.devpass.michel.accountmanagement.domain.model.Client
-import com.devpass.michel.accountmanagement.domain.repositories.ClientRepository
-import com.devpass.michel.accountmanagement.resources.repository.data.ClientDataJpaRepository
-import com.devpass.michel.accountmanagement.resources.repository.entities.AccountEntity
-import com.devpass.michel.accountmanagement.resources.repository.entities.ClientEntity
+import com.michel.accountmanagement.domain.model.Client
+import com.michel.accountmanagement.domain.repositories.ClientRepository
+import com.michel.accountmanagement.resources.repository.data.ClientDataJpaRepository
+import com.michel.accountmanagement.resources.repository.entities.AccountEntity
+import com.michel.accountmanagement.resources.repository.entities.ClientEntity
 import org.springframework.stereotype.Repository
 
 @Repository

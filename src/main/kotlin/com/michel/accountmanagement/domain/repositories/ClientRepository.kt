@@ -1,6 +1,7 @@
 package com.michel.accountmanagement.domain.repositories
 
-import com.devpass.michel.accountmanagement.domain.model.Client
+import com.michel.accountmanagement.domain.model.Client
+
 
 interface ClientRepository {
 

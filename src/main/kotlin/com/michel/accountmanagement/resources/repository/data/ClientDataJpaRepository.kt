@@ -1,6 +1,6 @@
 package com.michel.accountmanagement.resources.repository.data
 
-import com.devpass.michel.accountmanagement.resources.repository.entities.ClientEntity
+import com.michel.accountmanagement.resources.repository.entities.ClientEntity
 import org.springframework.data.repository.CrudRepository
 
 interface ClientDataJpaRepository : CrudRepository<ClientEntity, Int> {
